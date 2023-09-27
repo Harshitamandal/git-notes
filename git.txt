@@ -1,0 +1,49 @@
+    pwd(print working directory)
+    cd/users(users directory)
+    r(delete file)
+    ls(list items)
+    cd or cd ~ (home directory)
+    rmdir(delete empty folder)
+    cd..(chnage directory)
+    touch(create/touch file)
+    cp(copy file/folder)
+    cd/(root directory)
+    mkdir(create directory)
+    mv(move file/folder)
+
+    USEFUL COMMAND OF WINDOW:TERMINAL(cmd):-
+    cd(print current path)
+    echo text(desc.)>filename(create type)
+    copy fromfile tofile(copy file)
+    dir(list items)
+    mkdir foldername(create directory)
+    move fromfile tofile(move file or folder)
+    cls(clear command prompt)
+    del file(delete file)
+    cd..(change directory)
+    rmdir folder(delete folder)
+    copy 
+
+GIT :-
+
+    git init - we have to initialise the working directory with git init command,so that it will become a repository and having hidden git file.
+
+    git status - this command shows the status,the all commit status.
+                    staging -> commit
+
+    git add filename - command for staging the file.
+    git commit -m "desc." - command for commit the staged file after staging.
+
+    but first we add our credtional info. i.e. name,mail etc.
+    git config --global user.name "username"
+    git config --global user.email "mailid"
+
+    git log - command gives the unique id,info. and all details about all commits which we have done.
+
+    git branch - command to check existing all branch .
+
+    git branch branchname - command to make new branch.
+
+    git checkout branchname - command for switching the branch from recent to another.
+
+    git checkout -b branchname - command for making as well as switch to that branch at the
